@@ -1,24 +1,30 @@
 ---
-title: My Killer Lesson
+title: Organizing Google Drive
 authors:
-- Jane Doe
-date: 2016-01-15
+- Alejandro Chavez
+- Dallas Ambrosio
+- Dion Jacobs
+date: 2019-05-16
 reviewers:
-- John Doe
 - Jason Loan
-layout: lesson
-difficulty level: low [or, high, intermediate]
+layout: Tutorial
+difficulty level: intermediate
 ---
 
 ## Lesson Abstact
-
+If you are looking at this tutorial, you are probably trying to organize your Pierce College course work in Google Drive, making it easier for you to navigate through all of the files.
 ## Lesson Objectives/Outcomes
-
+Students will be able to navigate through Google Drive files.      
+Students will be able to create separate folders to organize files.   
+Students will be able to create folder shortcuts.
 ## Materials
 
-What materials (software, etc.) do people need in order to complete the lesson?
+- Internet access
+- A device that can access Google Drive
 
 ## Overview
+
+Google Drive is an online cloud storage where users can save files and documents. It is useful to learn for college course work.
 
 This section may include an introduction to key ideas, concepts, or rationale for the lesson. For example, if you were doing a lesson on Zotero, piece of free bibliographic software, you would explain what what Zotero is, why it might be useful for learning to use, etc.
 
