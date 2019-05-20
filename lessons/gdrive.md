@@ -7,8 +7,8 @@ authors:
 date: 2019-05-16
 reviewers:
 - Jason Loan
-layout: Tutorial
-difficulty level: intermediate
+Layout: Tutorial
+Difficulty level: Intermediate
 ---
 
 ## Lesson Abstract
@@ -29,30 +29,28 @@ Google Drive is an online cloud storage where users can save files and documents
 ## Lesson Steps/Components [as many as needed]
 
 - Sign into Google Drive
-- Create Folder
-- Method 1
+### Create Folder
+#### Method 1
 - Right click in empty space below your files and folders.
 - Choose New Folder. Then give it a name. Click create.
-- Method 2
-- Right click on one of your documents and choose move to.
-- You'll get a pop up window title My Drive.
-- In the bottom right you will see "New Folder" button. Select it
-- Name the folder and click the check mark button.
-- Then you will click move here.
-- Method 3
+#### Method 2
 - Click on My Drive to expand the drop down menu.
 - Choose New Folder. Then give it a name. Click create.
-- Organizing files and folders
-- Method 1
+### Organizing files and folders
+#### Method 1
 - Right click on one of your documents and choose "move to".
 - You'll get a pop up window title My Drive.
 - In the bottom right you will see "New Folder" button. Select it
 - Name the folder and click the check mark button.
 - Then you will click move here.
-- Method 2
-- Drag and Drop the file into the folder of your choosing
-- 
-
+#### Method 2 
+- Drag and Drop the file into the folder of your choosing 
+#### Method 3
+- Right click on one of your documents and choose move to.
+- You'll get a pop up window title My Drive.
+- In the bottom right you will see "New Folder" button. Select it
+- Name the folder and click the check mark button.
+- Then you will click "move here".
 ## Credits, Further Reading, etc.
 
 * You may find it necessary to reference and cite information from another source.
