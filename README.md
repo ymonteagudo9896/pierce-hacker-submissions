@@ -1,1 +1,0 @@
-# pierce-hacker-submissions
