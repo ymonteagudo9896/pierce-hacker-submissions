@@ -9,9 +9,9 @@ reviewers:
 layout: lesson
 Difficulty level: Intermediate
 ---
-​
+
 ## Lesson Abstract
-​
+
 ## Lesson Objectives/Outcomes
 
 By the end of this lesson, you will be able to do the following:
@@ -21,14 +21,14 @@ By the end of this lesson, you will be able to do the following:
 * Enter formulas in cells so Sheets can do the math for you
 * Link a table of your results to a Google Doc for reports/papers
 
-​
+
 ## Materials
-​
+
 Google Sheets and Google Docs are both free to use. A Google account is required to log in - if you have a gmail, log in with that. If not, you can create one for free here: accounts.google.com/signup
 Since Google Sheets and Docs are web based, you do not need to download any programs. Just go to docs.google.com or sheets.google.com. You can access these websites on any browser.
-​
+
 ## Overview
-​
+
 Data analysis can be done with any spreadsheet software from Microsoft Excel to Open Office Calc. This tutorial focuses on **Google Sheets** for a few reasons:
 
 * It's free
@@ -37,9 +37,9 @@ Data analysis can be done with any spreadsheet software from Microsoft Excel to 
 * All files are automatically saved to the cloud so you can always get to them and you never lose your work
 * You can link your data to tables in Google Docs so you can make changes to the Sheet and update the Doc as needed
 * Google Sheets helps you along the way by suggesting equations and showing you how to enter variables
-​
+
 ## Lesson Steps/Components [as many as needed]
-​
+
 
 1. Load [Google Sheets](https://www.google.com ) and click <img src="https://raw.githubusercontent.com/ymonteagudo9896/pierce-hacker-submissions/master/New_file_logo.png" width="48">
 
@@ -72,7 +72,6 @@ Data analysis can be done with any spreadsheet software from Microsoft Excel to 
 12. If you need to change the range of your table because you added additional data, find the top left and bottom right corners of your data and change them here:</p>__*insert video clip of range adjustment here*__
 
 ## Credits, Further Reading, etc.
-​
 
 * You may find it necessary to reference and cite information from another source.
 
