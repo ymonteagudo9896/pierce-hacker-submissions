@@ -53,7 +53,7 @@ Data analysis can be done with any spreadsheet software from Microsoft Excel to 
  8. Once you have equations entered in the first column, highlight all the statistics you have entered. Drag the bottom right corner as far to the right as you want statistics calculated.</p>__*insert video clip dragging two cells to the right*__
  9. When you have your table completely filled out, highlight and copy it.</p>__*insert video clip copying here*__
  10. Now paste it in your Google Doc as a linked table. </p>__*insert video clip pasting here*__
- 11. After making changes to your sheet, you will see ![Update_Buttons](https://github.com/ymonteagudo9896/pierce-hacker-submissions/blob/master/lessons/Update_Buttons.png) at the top of your table in Docs. Simply click it to update the data.
+ 11. After making changes to your sheet, you will see ![Update_Buttons](https://github.com/ymonteagudo9896/pierce-hacker-submissions/blob/master/lessons/images/GRY/Update_Button.png?raw=true) at the top of your table in Docs. Simply click it to update the data.
  12. If you need to change the range of your table because you added additional data, find the top left and bottom right corners of your data and change them here:</p>__*insert video clip of range adjustment here*__
 
 ## Credits, Further Reading, etc.
