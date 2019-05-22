@@ -49,7 +49,7 @@ Data analysis can be done with any spreadsheet software from Microsoft Excel to 
 
 3. Enter the the equation you need to calculate in the last column. Sheets will know it is an equation when you start with ' **=** '.
 
->Note - you can enter another equation in the next column if you need to calculate more than one value _or_ if you want to make your calculation in multiple steps.</p>__*insert video clip entering formula here*__
+>Note - you can enter another equation in the next column if you need to calculate more than one value _or_ if you want to make your calculation in multiple steps.</p> ![Entering_Equation](https://raw.githubusercontent.com/ymonteagudo9896/pierce-hacker-submissions/master/lessons/images/GRY/Entering_Equation.mov)
 
 >Note - using parentheses in equations is a great way to make sure values are calculated correctly. This is especially helpful with complex equations and also for beginners.</p>![Equation_with_Parentheses](https://raw.githubusercontent.com/ymonteagudo9896/pierce-hacker-submissions/master/lessons/images/GRY/Equation_with_Parentheses.png) 
 
