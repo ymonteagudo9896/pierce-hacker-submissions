@@ -1,7 +1,7 @@
 ---
 name: initial review
 about: Use this template for offering an initial review.
-title: Initial Review
+title: Initial Review for [insert lesson title]
 labels: ''
 assignees: ''
 
