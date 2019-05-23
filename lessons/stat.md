@@ -45,11 +45,11 @@ This lesson responds to the low percentage of students that take advantage of S.
 
 2. Open the Student Services tab on the bottom of the left side of the screen.
 
-![](https://raw.githubusercontent.com/mitchrosaaen/ENGL235/master/lessons/2.png)
+![](https://raw.githubusercontent.com/mitchrosaaen/ENGL235/master/lessons/2a.png)
 
 3. Open S.T.A.T.
 
-![](https://raw.githubusercontent.com/mitchrosaaen/ENGL235/master/lessons/3.png)
+![](https://raw.githubusercontent.com/mitchrosaaen/ENGL235/master/lessons/3a.png)
 
 Now that you have made it to the S.T.A.T homepage, you can now access the live chat for assistance or use the modules for other helpful information.
 
@@ -63,7 +63,7 @@ Now that you have made it to the S.T.A.T homepage, you can now access the live c
 
 2. Click "Chat With Me!" to initiate the live support chat.
 
-![](https://raw.githubusercontent.com/mitchrosaaen/ENGL235/master/lessons/6.png)
+![](https://raw.githubusercontent.com/mitchrosaaen/ENGL235/master/lessons/6a.png)
 
 3. If there is nobody online, you can send an offline message.
 
@@ -71,11 +71,11 @@ Now that you have made it to the S.T.A.T homepage, you can now access the live c
 
 1. On the left side of the screen, open the "Modules" category.
 
-![](https://raw.githubusercontent.com/mitchrosaaen/ENGL235/master/lessons/7.png)
+![](https://raw.githubusercontent.com/mitchrosaaen/ENGL235/master/lessons/7a.png)
 
 2. Select any module to download or open.
 
-![](https://raw.githubusercontent.com/mitchrosaaen/ENGL235/master/lessons/8.png)
+![](https://raw.githubusercontent.com/mitchrosaaen/ENGL235/master/lessons/8a.png)
 
 ## Credits, Further Reading, etc.
 
