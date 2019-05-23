@@ -28,7 +28,7 @@ Google Drive is an online cloud storage where users can save files and documents
 
 ## Lesson Steps/Components
 
-- Sign into Google Drive
+### Sign into Google Drive
 ### Creating Folders
 #### Method 1
 - Right click in empty space below your files and folders.
