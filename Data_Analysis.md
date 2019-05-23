@@ -72,7 +72,7 @@ Data analysis can be done with any spreadsheet software from Microsoft Excel to 
 
 11. After making changes to your sheet, you will see ![Update Buttons](https://raw.githubusercontent.com/ymonteagudo9896/pierce-hacker-submissions/master/lessons/images/GRY/Update_Button.png) at the top of your table in Docs. Simply click it to update the data.
 
-12. If you need to change the range of your table because you added additional data, find the top left and bottom right corners of your data and change them here: [Range adjustment](https://raw.githubusercontent.com/ymonteagudo9896/pierce-hacker-submissions/master/lessons/images/GRY/Change_Range.gif)
+12. If you need to change the range of your table because you added additional data, find the top left and bottom right corners of your data and change them here: ![Range adjustment](https://raw.githubusercontent.com/ymonteagudo9896/pierce-hacker-submissions/master/lessons/images/GRY/Change_Range.gif)
 
 ## Credits, Further Reading, etc.
 
