@@ -1,5 +1,5 @@
 ---
-title: Data Analysis With Google Suite
+title: Adding equations into Google docs and share your work
 authors:
 - Greg Joyce, Richard Soeum, Yamill Monteagudo
 date: 2019-05-20
